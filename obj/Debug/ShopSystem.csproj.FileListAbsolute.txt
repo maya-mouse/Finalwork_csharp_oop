@@ -1,0 +1,7 @@
+C:\Users\Maya\source\repos\ShopSystem\bin\Debug\ShopSystem.exe.config
+C:\Users\Maya\source\repos\ShopSystem\bin\Debug\ShopSystem.exe
+C:\Users\Maya\source\repos\ShopSystem\bin\Debug\ShopSystem.pdb
+C:\Users\Maya\source\repos\ShopSystem\obj\Debug\ShopSystem.csproj.AssemblyReference.cache
+C:\Users\Maya\source\repos\ShopSystem\obj\Debug\ShopSystem.csproj.CoreCompileInputs.cache
+C:\Users\Maya\source\repos\ShopSystem\obj\Debug\ShopSystem.exe
+C:\Users\Maya\source\repos\ShopSystem\obj\Debug\ShopSystem.pdb
